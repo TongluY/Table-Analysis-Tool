@@ -35,7 +35,7 @@ Create a Table type that manages a collection of NamedIntColumn objects using sh
 
 
 
-By the end of this project, you'll be able to perform a variety of powerful table operations with Sparrow, such as:
+The project is able to perform a variety of powerful table operations with Sparrow, such as:
 
 - Extracting a column from the table:
   ```python
